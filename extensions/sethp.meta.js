@@ -5,6 +5,8 @@
 // @homepage https://sethp.xyz
 // @match https://arizonarp.logsparser.info/*
 // @connect github.com
+// @connect githubusercontent.com
+// @connect sethp.xyz
 // @downloadURL https://github.com/sethp-org/data/raw/main/extensions/sethp.user.js
 // @grant unsafeWindow
 // @grant GM_info
