@@ -1,2 +1,26 @@
-2255
-99
+// ==UserScript==
+// @name SetHP Script
+// @description Скрипт для удобной работы с логами
+// @version 0.0.9
+// @homepage https://sethp.xyz
+// @match https://arizonarp.logsparser.info/*
+// @connect extensions.sethp.xyz
+// @downloadURL http://extensions.sethp.org/sethp.user.js
+// @grant unsafeWindow
+// @grant GM_info
+// @grant GM_download
+// @grant GM_getValue
+// @grant GM_setValue
+// @grant GM_listValues
+// @grant GM_deleteValue
+// @grant GM_xmlhttpRequest
+// @grant GM_registerMenuCommand
+// @grant GM_addValueChangeListener
+// @grant GM_removeValueChangeListener
+// @grant GM_notification
+// @grant GM_openInTab
+// @icon https://www.google.com/s2/favicons?sz=64&domain=logsparser.info
+// @namespace sethp
+// @run-at document-end
+// @updateURL http://extensions.sethp.org/sethp.meta.js
+// ==/UserScript==
