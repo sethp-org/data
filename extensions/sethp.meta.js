@@ -4,8 +4,8 @@
 // @version 0.0.9
 // @homepage https://sethp.xyz
 // @match https://arizonarp.logsparser.info/*
-// @connect extensions.sethp.xyz
-// @downloadURL http://extensions.sethp.org/sethp.user.js
+// @connect github.com
+// @downloadURL https://github.com/sethp-org/data/raw/main/extensions/sethp.user.js
 // @grant unsafeWindow
 // @grant GM_info
 // @grant GM_download
@@ -22,5 +22,5 @@
 // @icon https://www.google.com/s2/favicons?sz=64&domain=logsparser.info
 // @namespace sethp
 // @run-at document-end
-// @updateURL http://extensions.sethp.org/sethp.meta.js
+// @updateURL https://github.com/sethp-org/data/raw/main/extensions/sethp.meta.js
 // ==/UserScript==
