@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name SetHP Script
 // @description Скрипт для удобной работы с логами
-// @version 1.26.1
+// @version 1.27.0
 // @homepage https://sethp.xyz
 // @match https://arizonarp.logsparser.info/*
 // @match https://forum.arizona-rp.com/*
